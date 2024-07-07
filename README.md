@@ -9,6 +9,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [183: Customers Who Never Order]
 - [197: Rising Temperature]
 - [595: Big Countries]
+- [596: Classes More Than 5 Students]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
 
