@@ -7,6 +7,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [181: Employees Earning More Than Their Managers]
 - [182: Duplicate Emails]
 - [183: Customers Who Never Order]
+- [197: Rising Temperature]
 - [595: Big Countries]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
