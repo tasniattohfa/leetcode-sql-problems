@@ -6,6 +6,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [175: Combine Two Tables]
 - [181: Employees Earning More Than Their Managers]
 - [182: Duplicate Emails]
+- [183: Customers Who Never Order]
 - [595: Big Countries]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
