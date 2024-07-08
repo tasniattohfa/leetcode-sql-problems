@@ -14,6 +14,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [620: Not Boring Movies]
 - [627: Swap Salary]
 - [1148. Article Views I]
+- [1683. Invalid Tweets]
 - [1757: Recyclable and Low Fat Products]
 
 ## Medium Problems
