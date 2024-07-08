@@ -13,6 +13,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [596: Classes More Than 5 Students]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
+- [1068. Product Sales Analysis I]
 - [1148. Article Views I]
 - [1378. Replace Employee ID With The Unique Identifier]
 - [1683. Invalid Tweets]
