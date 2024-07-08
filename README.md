@@ -8,6 +8,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [182: Duplicate Emails]
 - [183: Customers Who Never Order]
 - [197: Rising Temperature]
+- [584: Find Customer Referee]
 - [595: Big Countries]
 - [596: Classes More Than 5 Students]
 - [620: Not Boring Movies]
@@ -16,6 +17,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 
 ## Medium Problems
 - [176: Second Highest Salary]
+  
 ## Usage
 To run these SQL scripts, copy the content of the `.sql` file and execute it in your SQL database environment.
 
