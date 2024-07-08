@@ -8,6 +8,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [182: Duplicate Emails]
 - [183: Customers Who Never Order]
 - [197: Rising Temperature]
+- [577. Employee Bonus]
 - [584: Find Customer Referee]
 - [595: Big Countries]
 - [596: Classes More Than 5 Students]
