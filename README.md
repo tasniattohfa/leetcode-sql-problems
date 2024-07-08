@@ -12,7 +12,10 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [596: Classes More Than 5 Students]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
+- [1757: Recyclable and Low Fat Products]
 
+## Medium Problems
+- [176: Second Highest Salary]
 ## Usage
 To run these SQL scripts, copy the content of the `.sql` file and execute it in your SQL database environment.
 
