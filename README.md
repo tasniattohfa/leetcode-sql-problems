@@ -13,6 +13,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [596: Classes More Than 5 Students]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
+- [1148. Article Views I]
 - [1757: Recyclable and Low Fat Products]
 
 ## Medium Problems
