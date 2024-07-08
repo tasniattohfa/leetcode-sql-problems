@@ -17,6 +17,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1148. Article Views I]
 - [1378. Replace Employee ID With The Unique Identifier]
 - [1581. Customer Who Visited but Did Not Make Any Transactions]
+- [1661. Average Time of Process per Machine]
 - [1683. Invalid Tweets]
 - [1757: Recyclable and Low Fat Products]
 
