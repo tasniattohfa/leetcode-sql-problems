@@ -16,6 +16,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [627: Swap Salary]
 - [1068. Product Sales Analysis I]
 - [1148. Article Views I]
+- [1280. Students and Examinations]
 - [1378. Replace Employee ID With The Unique Identifier]
 - [1581. Customer Who Visited but Did Not Make Any Transactions]
 - [1661. Average Time of Process per Machine]
