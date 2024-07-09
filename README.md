@@ -8,7 +8,6 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [182: Duplicate Emails]
 - [183: Customers Who Never Order]
 - [197: Rising Temperature]
-- [570: Managers with at Least 5 Direct Reports]
 - [577: Employee Bonus]
 - [584: Find Customer Referee]
 - [595: Big Countries]
@@ -26,6 +25,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 
 ## Medium Problems
 - [176: Second Highest Salary]
+- [570: Managers with at Least 5 Direct Reports]
   
 ## Usage
 To run these SQL scripts, copy the content of the `.sql` file and execute it in your SQL database environment.
