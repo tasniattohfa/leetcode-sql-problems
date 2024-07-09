@@ -26,6 +26,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 ## Medium Problems
 - [176: Second Highest Salary]
 - [570: Managers with at Least 5 Direct Reports]
+- [1934: Confirmation Rate]
   
 ## Usage
 To run these SQL scripts, copy the content of the `.sql` file and execute it in your SQL database environment.
