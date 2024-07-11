@@ -16,6 +16,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [620: Not Boring Movies]
 - [627: Swap Salary]
 - [1068: Product Sales Analysis I]
+- [1075: Project Employees I]
 - [1148: Article Views I]
 - [1251: Average Selling Price]
 - [1280: Students and Examinations]
