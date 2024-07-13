@@ -19,6 +19,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1075: Project Employees I]
 - [1141. User Activity for the Past 30 Days I]
 - [1148: Article Views I]
+- [1193: Monthly Transactions I]
 - [1211: Queries Quality and Percentage]
 - [1251: Average Selling Price]
 - [1280: Students and Examinations]
