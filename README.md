@@ -29,6 +29,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1661: Average Time of Process per Machine]
 - [1683: Invalid Tweets]
 - [1757: Recyclable and Low Fat Products]
+- [2356: Number of Unique Subjects Taught by Each Teacher]
 
 ## Medium Problems
 - [176: Second Highest Salary]
