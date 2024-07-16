@@ -33,6 +33,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 ## Medium Problems
 - [176: Second Highest Salary]
 - [570: Managers with at Least 5 Direct Reports]
+- [1174: Immediate Food Delivery II]
 - [1934: Confirmation Rate]
   
 ## Usage
