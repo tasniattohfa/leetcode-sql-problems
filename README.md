@@ -12,6 +12,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [584: Find Customer Referee]
 - [595: Big Countries]
 - [596: Classes More Than 5 Students]
+- [610: Triangle Judgement]
 - [619: Biggest Single Number]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
