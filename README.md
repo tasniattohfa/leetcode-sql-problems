@@ -41,6 +41,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [180: Consecutive Numbers]
 - [550: Game Play Analysis IV]
 - [570: Managers with at Least 5 Direct Reports]
+- [626: Exchange Seats]
 - [1045: Customers Who Bought All Products]
 - [1070: Product Sales Analysis III]
 - [1174: Immediate Food Delivery II]
