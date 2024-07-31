@@ -37,6 +37,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 
 ## Medium Problems
 - [176: Second Highest Salary]
+- [180: Consecutive Numbers]
 - [550: Game Play Analysis IV]
 - [570: Managers with at Least 5 Direct Reports]
 - [1045: Customers Who Bought All Products]
