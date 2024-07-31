@@ -33,6 +33,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1731: The Number of Employees Which Report to Each Employee]
 - [1757: Recyclable and Low Fat Products]
 - [1789: Primary Department for Each Employee]
+- [1978: Employees Whose Manager Left the Company]
 - [2356: Number of Unique Subjects Taught by Each Teacher]
 
 ## Medium Problems
