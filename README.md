@@ -28,6 +28,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1581: Customer Who Visited but Did Not Make Any Transactions]
 - [1633: Percentage of Users Attended a Contest]
 - [1661: Average Time of Process per Machine]
+- [1667: Fix Names in a Table]
 - [1683: Invalid Tweets]
 - [1729: Find Followers Count]
 - [1731: The Number of Employees Which Report to Each Employee]
