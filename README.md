@@ -26,6 +26,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1251: Average Selling Price]
 - [1280: Students and Examinations]
 - [1378: Replace Employee ID With The Unique Identifier]
+- [1484: Group Sold Products By The Date]
 - [1527: Patients With a Condition]
 - [1581: Customer Who Visited but Did Not Make Any Transactions]
 - [1633: Percentage of Users Attended a Contest]
