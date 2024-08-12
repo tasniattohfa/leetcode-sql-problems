@@ -50,6 +50,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [626: Exchange Seats]
 - [1045: Customers Who Bought All Products]
 - [1070: Product Sales Analysis III]
+- [1164: Product Price at a Given Date]
 - [1174: Immediate Food Delivery II]
 - [1934: Confirmation Rate]
   
