@@ -25,6 +25,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1211: Queries Quality and Percentage]
 - [1251: Average Selling Price]
 - [1280: Students and Examinations]
+- [1327: List the Products Ordered in a Period]
 - [1378: Replace Employee ID With The Unique Identifier]
 - [1517: Find Users With Valid E-Mails]
 - [1484: Group Sold Products By The Date]
