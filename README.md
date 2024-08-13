@@ -17,6 +17,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [619: Biggest Single Number]
 - [620: Not Boring Movies]
 - [627: Swap Salary]
+- [1050: Actors and Directors Who Cooperated At Least Three Times]
 - [1068: Product Sales Analysis I]
 - [1075: Project Employees I]
 - [1141. User Activity for the Past 30 Days I]
