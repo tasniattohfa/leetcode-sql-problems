@@ -47,6 +47,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 ## Medium Problems
 - [176: Second Highest Salary]
 - [180: Consecutive Numbers]
+- [184: Department Highest Salary]
 - [550: Game Play Analysis IV]
 - [570: Managers with at Least 5 Direct Reports]
 - [626: Exchange Seats]
