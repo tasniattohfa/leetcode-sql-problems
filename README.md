@@ -46,6 +46,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 
 ## Medium Problems
 - [176: Second Highest Salary]
+- [178: Rank Scores]
 - [180: Consecutive Numbers]
 - [184: Department Highest Salary]
 - [550: Game Play Analysis IV]
