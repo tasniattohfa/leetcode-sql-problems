@@ -11,6 +11,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [197: Rising Temperature]
 - [577: Employee Bonus]
 - [584: Find Customer Referee]
+- [586: Customer Placing the Largest Number of Orders]
 - [595: Big Countries]
 - [596: Classes More Than 5 Students]
 - [610: Triangle Judgement]
