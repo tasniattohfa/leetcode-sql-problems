@@ -51,6 +51,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [184: Department Highest Salary]
 - [550: Game Play Analysis IV]
 - [570: Managers with at Least 5 Direct Reports]
+- [602: Friend Requests II: Who Has the Most Friends]
 - [626: Exchange Seats]
 - [1045: Customers Who Bought All Products]
 - [1070: Product Sales Analysis III]
