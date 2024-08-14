@@ -57,6 +57,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1164: Product Price at a Given Date]
 - [1174: Immediate Food Delivery II]
 - [1204: Last Person to Fit in the Bus]
+- [1907: Count Salary Categories]
 - [1934: Confirmation Rate]
   
 ## Usage
