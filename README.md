@@ -14,6 +14,7 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [586: Customer Placing the Largest Number of Orders]
 - [595: Big Countries]
 - [596: Classes More Than 5 Students]
+- [607: Sales Person]
 - [610: Triangle Judgement]
 - [619: Biggest Single Number]
 - [620: Not Boring Movies]
