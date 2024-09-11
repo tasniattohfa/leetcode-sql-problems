@@ -64,6 +64,9 @@ This repository contains solutions to various SQL problems from LeetCode.
 - [1204: Last Person to Fit in the Bus]
 - [1907: Count Salary Categories]
 - [1934: Confirmation Rate]
+
+## Hard Problems 
+- [262: Trips and Users]
   
 ## Usage
 To run these SQL scripts, copy the content of the `.sql` file and execute it in your SQL database environment.
